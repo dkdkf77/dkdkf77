@@ -1,4 +1,13 @@
-### Hi there 👋
+  
+![IMG_20210324_064157_597](https://user-images.githubusercontent.com/88579497/136641754-ce0e4c75-33ee-4ef5-b84e-63e88ab48412.JPG)
+<div align ="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkdkf77&show_icons=true&theme=radical)
+ 
+인생은 한방 그러니, 재미지고 스팩타클 하게 👍 
+  
+🛳  뱃놈에서 개발자로, 그리고 현재는 개자이너를 꿈꾸는 코린이 🧑‍💻
+</div> 
 
 <!--
 **dkdkf77/dkdkf77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
