@@ -4,7 +4,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkdkf77&show_icons=true&theme=radical)
  
-인생은 한방 그러니, 재미지고 스팩타클 하게 👍 
+인생 재미지고 스팩타클 하게 👍 
   
 🛳  뱃놈에서 개발자로, 그리고 현재는 개자이너를 꿈꾸는 코린이 🧑‍💻
 </div> 
